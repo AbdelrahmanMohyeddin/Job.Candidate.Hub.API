@@ -1,0 +1,267 @@
+2024-05-11 11:38:18.263 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:38:44.722 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:38:46.466 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:38:46.473 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:38:46.478 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:38:46.478 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:38:46.478 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:38:54.148 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger - -
+2024-05-11 11:38:54.359 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger - - - 301 0 - 214.0872ms
+2024-05-11 11:38:54.359 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 11:38:54.873 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui.css - -
+2024-05-11 11:38:54.873 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui-standalone-preset.js - -
+2024-05-11 11:38:54.874 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui-bundle.js - -
+2024-05-11 11:38:54.874 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 11:38:54.874 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 514.7724ms
+2024-05-11 11:38:54.876 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 11:38:54.892 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 18.6755ms
+2024-05-11 11:38:54.969 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 93.3282ms
+2024-05-11 11:38:54.972 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-11 11:38:54.972 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-11 11:38:54.972 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui.css - - - 200 144929 text/css 98.9343ms
+2024-05-11 11:38:54.972 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 98.7478ms
+2024-05-11 11:38:54.991 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-11 11:38:54.991 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 117.3743ms
+2024-05-11 11:38:55.251 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 11:38:55.295 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/favicon-32x32.png - -
+2024-05-11 11:38:55.296 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-11 11:38:55.296 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/favicon-32x32.png - - - 200 628 image/png 0.4870ms
+2024-05-11 11:38:55.316 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 64.3934ms
+2024-05-11 11:39:10.208 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:39:10.815 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:39:10.820 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:39:10.824 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:39:10.824 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:39:10.824 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:39:56.120 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:39:56.704 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:39:56.711 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:39:56.715 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:39:56.715 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:39:56.715 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:40:10.747 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:40:12.316 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:40:12.323 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:40:12.327 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:40:12.328 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:40:12.328 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:40:15.222 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 11:40:15.849 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 634.7497ms
+2024-05-11 11:40:15.899 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 11:40:15.903 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 11:40:15.915 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 16.2612ms
+2024-05-11 11:40:15.947 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.5034ms
+2024-05-11 11:40:16.205 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 11:40:16.269 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 64.4459ms
+2024-05-11 11:42:16.784 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:42:18.149 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:42:18.156 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:42:18.161 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:42:18.161 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:42:18.161 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:42:19.963 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 11:42:20.429 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 470.4640ms
+2024-05-11 11:42:20.437 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 11:42:20.440 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 11:42:20.444 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 7.7753ms
+2024-05-11 11:42:20.508 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 67.3492ms
+2024-05-11 11:42:20.588 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 11:42:20.637 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 49.4438ms
+2024-05-11 11:42:32.749 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:42:33.316 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:42:33.322 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:42:33.325 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:42:33.326 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:42:33.326 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:42:48.976 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger - -
+2024-05-11 11:42:49.056 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger - - - 301 0 - 83.5872ms
+2024-05-11 11:42:49.060 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 11:42:49.277 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 216.5962ms
+2024-05-11 11:42:49.277 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui.css - -
+2024-05-11 11:42:49.277 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui-bundle.js - -
+2024-05-11 11:42:49.278 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui-standalone-preset.js - -
+2024-05-11 11:42:49.278 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 11:42:49.278 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 11:42:49.281 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 2.5517ms
+2024-05-11 11:42:49.319 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-11 11:42:49.327 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-11 11:42:49.328 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 49.6279ms
+2024-05-11 11:42:49.328 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui.css - - - 200 144929 text/css 51.2087ms
+2024-05-11 11:42:49.332 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.2127ms
+2024-05-11 11:42:49.347 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-11 11:42:49.347 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 70.5266ms
+2024-05-11 11:42:49.544 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 11:42:49.568 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 24.1881ms
+2024-05-11 11:42:49.587 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/favicon-32x32.png - -
+2024-05-11 11:42:49.587 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-11 11:42:49.588 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/favicon-32x32.png - - - 200 628 image/png 0.6505ms
+2024-05-11 11:43:44.622 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:43:45.213 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:43:45.219 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:43:45.222 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:43:45.223 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:43:45.223 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:51:07.160 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:51:08.359 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:51:08.367 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:51:08.371 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:51:08.371 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:51:08.371 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:57:35.061 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 11:57:35.919 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 11:57:35.927 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 11:57:35.936 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 11:57:35.937 +03:00 [INF] Hosting environment: Development
+2024-05-11 11:57:35.937 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 11:57:44.955 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger - -
+2024-05-11 11:57:45.058 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 11:57:45.058 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger - - - 301 0 - 107.8036ms
+2024-05-11 11:57:45.367 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 309.2790ms
+2024-05-11 11:57:45.379 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui.css - -
+2024-05-11 11:57:45.380 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui-bundle.js - -
+2024-05-11 11:57:45.380 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/swagger-ui-standalone-preset.js - -
+2024-05-11 11:57:45.380 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 11:57:45.380 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 11:57:45.386 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 6.3756ms
+2024-05-11 11:57:45.448 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-11 11:57:45.448 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-11 11:57:45.449 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 68.8459ms
+2024-05-11 11:57:45.449 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui.css - - - 200 144929 text/css 69.3902ms
+2024-05-11 11:57:45.458 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-11 11:57:45.458 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 78.6749ms
+2024-05-11 11:57:45.484 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 103.9168ms
+2024-05-11 11:57:45.691 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 11:57:45.714 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 23.4905ms
+2024-05-11 11:57:45.730 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/favicon-32x32.png - -
+2024-05-11 11:57:45.731 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-11 11:57:45.732 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/favicon-32x32.png - - - 200 628 image/png 0.8079ms
+2024-05-11 12:08:02.826 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:08:04.525 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 12:08:04.535 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 12:08:04.542 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 12:08:04.542 +03:00 [INF] Hosting environment: Development
+2024-05-11 12:08:04.542 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 12:08:07.763 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 12:08:08.968 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 12:08:08.987 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 12:08:08.988 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 17.8165ms
+2024-05-11 12:08:08.991 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 1235.8847ms
+2024-05-11 12:08:09.083 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 96.5148ms
+2024-05-11 12:08:09.156 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 12:08:09.207 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 50.8459ms
+2024-05-11 12:09:25.518 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:09:28.134 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 12:09:28.146 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 12:09:28.154 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 12:09:28.157 +03:00 [INF] Hosting environment: Development
+2024-05-11 12:09:28.158 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 12:09:30.704 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 12:09:31.371 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 673.2537ms
+2024-05-11 12:09:31.374 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 12:09:31.378 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 12:09:31.381 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 6.4721ms
+2024-05-11 12:09:31.513 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 135.0569ms
+2024-05-11 12:09:31.611 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 12:09:31.709 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 98.2754ms
+2024-05-11 12:12:26.153 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:12:28.027 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 12:12:28.036 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 12:12:28.042 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 12:12:28.042 +03:00 [INF] Hosting environment: Development
+2024-05-11 12:12:28.042 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 12:12:30.344 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 12:12:31.531 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 1191.7989ms
+2024-05-11 12:12:31.628 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 12:12:31.628 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 12:12:31.635 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 6.6392ms
+2024-05-11 12:12:31.726 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 97.3023ms
+2024-05-11 12:12:31.796 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 12:12:31.841 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 45.2105ms
+2024-05-11 12:44:06.556 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:45:41.541 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:45:52.501 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:46:20.509 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:51:40.580 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:51:51.010 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:53:53.365 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:53:55.260 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 12:53:55.268 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 12:53:55.273 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 12:53:55.274 +03:00 [INF] Hosting environment: Development
+2024-05-11 12:53:55.274 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 12:53:59.048 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 12:53:59.623 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 12:53:59.623 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 12:53:59.639 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 14.2581ms
+2024-05-11 12:53:59.649 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 616.1032ms
+2024-05-11 12:53:59.705 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 82.5271ms
+2024-05-11 12:53:59.816 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 12:53:59.890 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.0842ms
+2024-05-11 12:54:07.221 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:57:15.351 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 12:58:03.415 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:01:09.681 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:01:11.542 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 13:01:11.549 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 13:01:11.554 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 13:01:11.554 +03:00 [INF] Hosting environment: Development
+2024-05-11 13:01:11.555 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 13:01:13.819 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 13:01:14.369 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 13:01:14.369 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 13:01:14.384 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 14.1819ms
+2024-05-11 13:01:14.402 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 592.6625ms
+2024-05-11 13:01:14.434 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.1196ms
+2024-05-11 13:01:14.536 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 13:01:14.590 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 54.1613ms
+2024-05-11 13:01:46.052 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:07:52.902 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:09:34.616 +03:00 [INF] Now listening on: https://localhost:7100
+2024-05-11 13:09:34.624 +03:00 [INF] Now listening on: http://localhost:5157
+2024-05-11 13:09:34.630 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 13:09:34.631 +03:00 [INF] Hosting environment: Development
+2024-05-11 13:09:34.631 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job candidate hub API\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 13:09:40.488 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/index.html - -
+2024-05-11 13:09:42.921 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/index.html - - - 200 - text/html;charset=utf-8 2440.0942ms
+2024-05-11 13:09:42.959 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_vs/browserLink - -
+2024-05-11 13:09:42.959 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 13:09:42.968 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 8.8308ms
+2024-05-11 13:09:42.993 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.5937ms
+2024-05-11 13:09:43.130 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - -
+2024-05-11 13:09:43.200 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7100/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 70.7017ms
+2024-05-11 13:09:59.179 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:13:06.172 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:15:02.440 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:16:18.425 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:17:09.207 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:19:13.194 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 13:22:38.122 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 14:01:37.247 +03:00 [INF] JobCandidateHub API starting
+2024-05-11 14:01:39.933 +03:00 [INF] Now listening on: https://localhost:7178
+2024-05-11 14:01:39.944 +03:00 [INF] Now listening on: http://localhost:5176
+2024-05-11 14:01:39.948 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-11 14:01:39.949 +03:00 [INF] Hosting environment: Development
+2024-05-11 14:01:39.949 +03:00 [INF] Content root path: C:\Users\AME\Desktop\Job.Candidate.Hub\Job.Candidate.Hub.API\
+2024-05-11 14:01:41.703 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger - -
+2024-05-11 14:01:41.841 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger - - - 301 0 - 139.1633ms
+2024-05-11 14:01:41.854 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/index.html - -
+2024-05-11 14:01:42.118 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/index.html - - - 200 - text/html;charset=utf-8 264.2193ms
+2024-05-11 14:01:42.139 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/swagger-ui.css - -
+2024-05-11 14:01:42.141 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/swagger-ui-bundle.js - -
+2024-05-11 14:01:42.141 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/swagger-ui-standalone-preset.js - -
+2024-05-11 14:01:42.142 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/_framework/aspnetcore-browser-refresh.js - -
+2024-05-11 14:01:42.145 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 3.8460ms
+2024-05-11 14:01:42.185 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-11 14:01:42.186 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/_vs/browserLink - -
+2024-05-11 14:01:42.188 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/swagger-ui.css - - - 200 144929 text/css 48.1762ms
+2024-05-11 14:01:42.197 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-11 14:01:42.197 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 55.5473ms
+2024-05-11 14:01:42.226 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-11 14:01:42.226 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 85.2280ms
+2024-05-11 14:01:42.281 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.1259ms
+2024-05-11 14:01:42.597 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/v1/swagger.json - -
+2024-05-11 14:01:42.740 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7178/swagger/favicon-32x32.png - -
+2024-05-11 14:01:42.740 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-11 14:01:42.741 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/favicon-32x32.png - - - 200 628 image/png 1.5658ms
+2024-05-11 14:01:42.755 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7178/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 158.3592ms
+2024-05-11 14:02:25.639 +03:00 [INF] JobCandidateHub API starting
